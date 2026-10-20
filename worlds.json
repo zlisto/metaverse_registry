@@ -108,6 +108,12 @@
       "name": "Red Fort",
       "address": "https://ayush-rajpal.github.io/red-fort/",
       "owner": "ayush-rajpal"
+    },
+    {
+      "id": "dublin_dash",
+      "name": "Dublin Dash",
+      "address": "https://hudsonozello-student.github.io/Dublin-Dash/",
+      "owner": "hudsonozello-student"
     }
   ]
 }
